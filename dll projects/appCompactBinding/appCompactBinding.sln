@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "appCompactBinding", "appCompactBinding\appCompactBinding.csproj", "{654DA9E5-FBE7-48F1-B91F-2F8487A7316C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{654DA9E5-FBE7-48F1-B91F-2F8487A7316C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{654DA9E5-FBE7-48F1-B91F-2F8487A7316C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{654DA9E5-FBE7-48F1-B91F-2F8487A7316C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{654DA9E5-FBE7-48F1-B91F-2F8487A7316C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6727E0B9-B107-4F85-9C4C-24FBDD234740}
+	EndGlobalSection
+EndGlobal
