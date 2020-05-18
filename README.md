@@ -11,8 +11,8 @@ All bindings projects are availble under dll projects folder.
 4) khalti-android-1.02.09.aar</br>
 5) logging-interceptor-3.9.1.jar</br>
 6) material-ripple-1.0.2.aar</br>
-7) okhttp-3.10.0.jar (Nuget Package)</br>
-8) okio-1.15.0</br>
+7) okhttp-3.10.0.jar </br>
+8) okio-1.15.0 (Nuget Package)</br>
 9) picasso-2.71828.aar</br>
 10) retrofit-2.3.0.jar</br>
 11) rxandroid-1.2.1.aar</br>
