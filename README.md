@@ -22,6 +22,9 @@ All bindings projects are availble under dll projects folder.
 15) rxpermissions-0.9.3.aar</br>
 16) ZhangHai.Android.MaterialProgressBar 1.4.2 (Nuget Package)</br>
 
+## Preview
+<img  src="Screenshot/khalti.png" width="250" height="450">
+
 
 
 
