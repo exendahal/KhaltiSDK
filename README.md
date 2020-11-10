@@ -23,9 +23,8 @@ All bindings projects are availble under dll projects folder.
 16) ZhangHai.Android.MaterialProgressBar 1.4.2 (Nuget Package)</br>
 
 ## Preview
-<img  src="Screenshot/khalti.png" width="250" height="450">
-
-
+<img  src="Screenshot/1.png" width="250" height="450">     <img  src="Screenshot/2.png" width="250" height="450">     <img  src="Screenshot/3.png" width="250" height="450">
+<img  src="Screenshot/4.png" width="250" height="450">     <img  src="Screenshot/5.png" width="250" height="450">    
 
 
 
