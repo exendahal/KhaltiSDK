@@ -2,7 +2,6 @@
 ## Khalti SDK for xamarin forms</br>
 Currently available binding dll for Xamarin Android</br>
 This project includes the AAR binding of Khalti SDK and all other additional library packages.</br>
-All bindings projects are availble under dll projects folder.
 
 
 ## Preview
