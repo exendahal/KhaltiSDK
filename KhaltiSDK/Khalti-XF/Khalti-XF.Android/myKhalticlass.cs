@@ -18,7 +18,7 @@ namespace Khalti_XF.Droid
         public void OnSuccess(IDictionary<string, Java.Lang.Object> p0)
         {
             Toast.MakeText(Application.Context, "SUCCESSFUL PAYMENT", ToastLength.Long).Show();
-            Xamarin.Forms.Application.Current.MainPage.Navigation.PushModalAsync(new Page1());
+            //Xamarin.Forms.Application.Current.MainPage.Navigation.PushModalAsync(new Page1());
         }
 
         public void OnError(string p0, string p1)
